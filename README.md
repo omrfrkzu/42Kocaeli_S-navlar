@@ -4,7 +4,7 @@
 - Eğer sınavda başarısız olursanız, tekrar girdiğinizde **1. Seviyeden** yeniden başlarsınız.
 - Bu sınavda <ins>**Norminette yoktur**</ins>.
 
-### :one: Seviye 1
+### :one: Sınav 1
 Aşağıdaki 12 Fonksiyon/Programdan herhangi biri olabilir:
 
 <table><tr><td>
