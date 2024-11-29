@@ -1,0 +1,1 @@
+# 42Kocaeli_S-navlar
